@@ -245,10 +245,14 @@ button {
      height: 100%;
 }
 
-.loader {
+.loader_fig {
+     background: #000000;
      text-align: center;
      font-family: 'Courier New', Courier, monospace;
      font-size: xx-large;
+}
+
+.loader {
      height: 100%;
      width: 100%;
      position: absolute;
@@ -257,7 +261,6 @@ button {
      display: flex;
      justify-content: center;
      align-items: center;
-     background: #000000;
 }
 
 .loader img {
