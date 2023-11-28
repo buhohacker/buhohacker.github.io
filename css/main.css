@@ -1,12 +1,12 @@
 body {
     background-color: #292929;
     color: #fff;
-    font-family: Arial, sans-serif;
     text-align: center;
-    font-family: 'Terminal', sans-serif;
+    font-family: 'Historian', sans-serif;
+    font-family: 'HistorianPencil', sans-serif;
+    font-family: 'HistorianBold', sans-serif;
     line-height: 1.6;
     margin: 0;
-    font-size: 1rem;
 }
 
 p {
@@ -127,9 +127,10 @@ h2 {
 
 desc {
     color: #fff;
-    font-family: Arial, sans-serif;
     text-align: center;
-    font-family: 'Terminal', sans-serif;
+    font-family: 'Historian', sans-serif;
+    font-family: 'HistorianPencil', sans-serif;
+    font-family: 'HistorianBold', sans-serif;
     line-height: 2.0;
     font-size: 2vw; 
 }
@@ -257,8 +258,9 @@ border-bottom: 2px solid #04939e;
 .loader_fig {
     background: #000000;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: xx-large;
+    font-family: 'Historian', sans-serif;
+    font-family: 'HistorianPencil', sans-serif;
+    font-family: 'HistorianBold', sans-serif;    font-size: xx-large;
 }
 
 .loader {
